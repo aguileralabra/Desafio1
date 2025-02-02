@@ -1,5 +1,6 @@
 var listadoAmigos = [];
 
+//Agregar amigo al listado
 function agregarAmigo(){
     let nombreAmigo = document.querySelector('#amigo');
     let resultado = document.querySelector('#resultado');
